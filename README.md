@@ -1,7 +1,6 @@
 # Python_Django_Project
 
-Q: Is Django MVC? 
-A: Not a "true" MVC framework, the "C" is handled by the framework itself.
+Is Django MVC? Not a "true" MVC framework, the "C" is handled by the framework itself.
 
 Django is MTV(Model-Template-View):
 Model: Data access layer, 
