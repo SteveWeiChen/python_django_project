@@ -74,3 +74,8 @@ class Meta:
 
 设置root url为posts页面: 
 在主urls.py中添加 url(r'^$',include('posts.urls'))
+
+# Post List<br/>
+![image](https://github.com/SteveWeiChen/python_django_project/blob/master/posts/Post%20List.png)<br/>
+# Post Details<br/>
+![image](https://github.com/SteveWeiChen/python_django_project/blob/master/posts/post_details.png)<br/>
